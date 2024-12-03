@@ -1,4 +1,4 @@
-#Onboard Automator - Azure AD Identity Management & Resource Provisioning
+# **Onboard Automator - Azure AD Identity Management & Resource Provisioning**
 
 Project Overview:
 This project automates the onboarding process of new employees by managing Azure AD identities, assigning roles/groups, provisioning Azure resources, and sending personalized welcome emails. The entire workflow is built using Azure Logic Apps and integrates with Azure AD, Azure Resource Manager, and Azure Email Service.
